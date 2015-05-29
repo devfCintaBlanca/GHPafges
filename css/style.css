@@ -1,0 +1,13 @@
+body {
+	background-color: red;
+	text-align: center;
+}
+#clic {
+	cursor: pointer;
+	padding: 1em;
+	background-color: blue;
+	margin: 0;
+}
+#foto {
+	display: none;
+}
